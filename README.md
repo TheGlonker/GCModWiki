@@ -3,3 +3,4 @@
 
 
 ### Unofficial Modding Wiki for "Gunman Contracts - Stand Alone".
+This Wiki provides you all sorts of info you might need to start modding the game.
